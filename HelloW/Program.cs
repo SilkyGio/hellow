@@ -11,6 +11,7 @@ namespace HelloW
         static void Main(string[] args)
         {
             Console.WriteLine("hello w");
+            Console.WriteLine("hello w2");
             Console.ReadKey();
         }
     }
